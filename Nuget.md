@@ -1,0 +1,2 @@
+- EFCore 查询标准库
+	- Ardalis.Specification.EntityFrameworkCore
